@@ -18,5 +18,5 @@
 (key-chord-define-global "JJ" nil)
 
 (key-chord-define evil-insert-state-map "jk" 'evil-normal-state)
-;(key-chord-define-global "z=" 'ispell-word)
+(key-chord-define-global "z=" 'ispell-word)
 (provide 'personal-evil)
